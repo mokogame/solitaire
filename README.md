@@ -1,4 +1,4 @@
-# solitaire
+# Moko Solitaire
 Moko Solitaire is a premium Solitaire game crafted in a fairy-tale cartoon style. Inspired by classic Solitaire, it delivers a fully upgraded experience in visuals, pacing, and overall feel.
 
 We believe casual games deserve serious craftsmanship.
