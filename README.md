@@ -6,7 +6,7 @@ From soft color palettes and refined animation feedback to clear, intuitive guid
 
 Key Features
 • Classic Solitaire rules, zero learning curve
-• Disney-inspired cartoon art, warm and soothing
+• Cartoon art, warm and soothing
 • Smooth animations with natural tactile feedback
 • Pause anytime, ideal for short breaks
 • Fully playable offline, no internet required
